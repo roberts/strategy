@@ -6,14 +6,14 @@
 
 <meta content="width=device-width, initial-scale=1" name="viewport">
 
-<link href="https://daks2k3a4ib2z.cloudfront.net/586653211a517e963ab58c07/css/setapp.b3dfb2c26.min.css" rel="stylesheet" type="text/css">
+<link href="/css/triplecrown.css" rel="stylesheet" type="text/css">
 <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
 <script type="text/javascript">WebFont.load({
   google: {
     families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic","Roboto:regular:latin,cyrillic-ext","Roboto Condensed:regular,700:latin,cyrillic-ext","Roboto:regular:latin,cyrillic-ext"]
   }
 });</script>
-<script src="https://daks2k3a4ib2z.cloudfront.net/0globals/modernizr-2.7.1.js" type="text/javascript"></script>
+<script src="/js/modernizr.js" type="text/javascript"></script>
 
 
 <style>
@@ -264,7 +264,7 @@
             <h1 class="features-title title-center">How Can We Help?</h1>
             <h1 class="center h3">FREE CONSULTATION</h1>
             <div class="btns" data-ix="last-block-fixed-bar">
-                <a class="free-download w-button" data-gtm-click="{&quot;eventCategory&quot;: &quot;Setapp Release Landing&quot;, &quot;eventAction&quot;: &quot;Bottom Button&quot;, &quot;eventLabel&quot;: &quot;Undefined&quot;, &quot;eventNonInteraction&quot;: 0}" data-signup="1" target="_blank" href="#">Contact Us</a>
+                <a class="free-download w-button" data-gtm-click="{&quot;eventCategory&quot;: &quot;Setapp Release Landing&quot;, &quot;eventAction&quot;: &quot;Fixed Button&quot;, &quot;eventLabel&quot;: &quot;Undefined&quot;, &quot;eventNonInteraction&quot;: 0}" data-signup="1" href="#">Contact Us</a>
             </div>
         </div>
         <div class="last-gradient"></div>
