@@ -329,8 +329,8 @@
     <div class="signup-popup" id="signup-window">
         <div class="signup-close" id="register-window-close"></div>
         <div class="signup-cnt">
-            <h2 class="signup-title">Contact us to discuss working together.</h2>
-            <p class="signup-text">Introduce yourself on Facebook Messenger.</p>
+            <h2 class="signup-title">Contact us</h2>
+            <p class="signup-text">Introduce yourself on Facebook Messenger</p>
             <div class="signup-form w-form">
                 <div class="fb-page" data-href="https://www.facebook.com/Tipoff" data-tabs="messages" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Tipoff" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Tipoff">Tipoff</a></blockquote></div>
             </div>
@@ -500,6 +500,5 @@
       });
      
     </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
 </body>
 </html>
