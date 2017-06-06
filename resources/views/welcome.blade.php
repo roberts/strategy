@@ -257,17 +257,18 @@
         </div>
     </div>
 
+
     <div class="signup-popup" id="signup-window">
         <div class="signup-close" id="register-window-close"></div>
         <div class="signup-cnt">
             <h2 class="signup-title">Contact us</h2>
             <p class="signup-text">Introduce yourself on Facebook Messenger</p>
             <div class="signup-form w-form">
-                <div class="fb-page" data-href="https://www.facebook.com/Tipoff" data-tabs="messages" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Tipoff" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Tipoff">Tipoff</a></blockquote></div>
+                <div class="fb-page" data-href="https://www.facebook.com/TripleCrownStrategy/" data-tabs="messages" data-height="300" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/TripleCrownStrategy/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/TripleCrownStrategy/">Triple Crown Strategy</a></blockquote></div>
             </div>
-
         </div>
     </div>
+
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js" type="text/javascript"></script>
     <script src="https://daks2k3a4ib2z.cloudfront.net/586653211a517e963ab58c07/js/setapp.218c3dd8d.js" type="text/javascript"></script>
