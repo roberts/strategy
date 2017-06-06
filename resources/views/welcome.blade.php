@@ -103,7 +103,7 @@
             <div class="fix-logo-left w-clearfix">
                 <a class="fix-logo w-inline-block" href="https://triplecrownstrategy.com"></a>
             </div>
-            <div class="fix-center-text">Business Strategy Consulting</div>
+            <div class="fix-center-text">Business Consulting</div>
             <div class="fix-right-btn w-clearfix">
                 <a class="f-right-btns w-button" data-gtm-click="{&quot;eventCategory&quot;: &quot;Setapp Release Landing&quot;, &quot;eventAction&quot;: &quot;Fixed Button&quot;, &quot;eventLabel&quot;: &quot;Undefined&quot;, &quot;eventNonInteraction&quot;: 0}" data-signup="1" href="#">Contact Us</a>
             </div>
@@ -269,14 +269,14 @@
 
     <div class="last-block">
         <div class="last-content w-container">
-            <h1 class="features-title title-center">Start your free month</h1>
-            <h1 class="center h3">NO CREDIT CARD NEEDED</h1>
+            <h1 class="features-title title-center">How Can We Help?</h1>
+            <h1 class="center h3">FREE CONSULTATION</h1>
             <div class="btns" data-ix="last-block-fixed-bar">
-                <a class="free-download w-button" data-gtm-click="{&quot;eventCategory&quot;: &quot;Setapp Release Landing&quot;, &quot;eventAction&quot;: &quot;Bottom Button&quot;, &quot;eventLabel&quot;: &quot;Undefined&quot;, &quot;eventNonInteraction&quot;: 0}" data-signup="1" target="_blank">Start Your Free Month</a>
+                <a class="free-download w-button" data-gtm-click="{&quot;eventCategory&quot;: &quot;Setapp Release Landing&quot;, &quot;eventAction&quot;: &quot;Bottom Button&quot;, &quot;eventLabel&quot;: &quot;Undefined&quot;, &quot;eventNonInteraction&quot;: 0}" data-signup="1" target="_blank" href="#">Contact Us</a>
                 <div class="btm-brand w-clearfix">
                     <div class="logo-left"></div>
                     <div class="line-v"></div>
-                    <div class="brand-slogan">You're all set</div>
+                    <div class="brand-slogan">Business Consulting</div>
                 </div>
             </div>
         </div>
@@ -292,19 +292,16 @@
                             <a class="f-menu-links" href="https://triplecrownstrategy.com" target="_blank">HOME</a>
                         </div>
                         <div class="f-menu-btm">
-                            <a class="f-menu-links" href="#" target="_blank">All Apps</a>
+                            <a class="f-menu-links" href="#" target="_blank">About Us</a>
                         </div>
                         <div class="f-menu-btm">
-                            <a class="f-menu-links" href="#" target="_blank">How it works</a>
+                            <a class="f-menu-links" href="#" target="_blank">Digital Marketing</a>
                         </div>
                         <div class="f-menu-btm">
-                            <a class="f-menu-links" href="#" target="_blank">For developers</a>
+                            <a class="f-menu-links" href="#" target="_blank">Business Analytics</a>
                         </div>
                         <div class="f-menu-btm">
-                            <a class="f-menu-links" href="#" target="_blank">Support</a>
-                        </div>
-                        <div class="f-menu-btm">
-                            <a class="f-menu-links" href="#" target="_blank">about</a>
+                            <a class="f-menu-links" href="#" target="_blank">Risk Management</a>
                         </div>
                     </div>
                     <div class="social">
