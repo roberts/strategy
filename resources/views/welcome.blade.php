@@ -121,6 +121,7 @@
         <div class="gradient">
     </div>
     <div class="btm-grad gradient"></div>
+    <div style="width:100%;height:1000px;"></div>
     <div class="content w-container">
         <a class="main-logo-link w-inline-block" href="https://triplecrownstrategy.com" target="_blank">
             <div class="logo"></div>
