@@ -265,11 +265,6 @@
             <h1 class="center h3">FREE CONSULTATION</h1>
             <div class="btns" data-ix="last-block-fixed-bar">
                 <a class="free-download w-button" data-gtm-click="{&quot;eventCategory&quot;: &quot;Setapp Release Landing&quot;, &quot;eventAction&quot;: &quot;Bottom Button&quot;, &quot;eventLabel&quot;: &quot;Undefined&quot;, &quot;eventNonInteraction&quot;: 0}" data-signup="1" target="_blank" href="#">Contact Us</a>
-                <div class="btm-brand w-clearfix">
-                    <div class="logo-left"></div>
-                    <div class="line-v"></div>
-                    <div class="brand-slogan">Business Consulting</div>
-                </div>
             </div>
         </div>
         <div class="last-gradient"></div>
