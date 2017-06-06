@@ -81,7 +81,6 @@
 </head>
 
 <body class="body">
-    // Google Analytics
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -90,7 +89,6 @@
         ga('create', 'UA-100439956-1', 'auto');
         ga('send', 'pageview');
     </script>
-    // Facebook Messenger
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
@@ -344,6 +342,32 @@
     <script src="https://daks2k3a4ib2z.cloudfront.net/586653211a517e963ab58c07/js/setapp.218c3dd8d.js" type="text/javascript"></script>
     <!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
     <script>
+    function gtm () {
+      var onClickAttr = 'data-gtm-click';
+      var clicks = document.querySelectorAll(onClickAttr);
+      [].forEach.call(clicks, (element) => {
+        element.addEventListener('click', function() {
+          var data = JSON.parse(element.getAttribute(onClickAttr));
+          push(data);
+        });
+      });
+
+      var push = function (data) {
+        window.dataLayer.push({
+          'event': 'setapp-landing',
+          'eventCategory': data.eventCategory || '',
+          'eventAction': data.eventAction || '',
+          'eventLabel': data.eventLabel || '',
+          'eventValue': data.eventValue || '',
+          'eventNonInteraction': data.eventNonInteraction === 1
+        });
+      };
+    }
+    document.addEventListener('DOMContentLoaded', function() {
+      gtm();
+    });
+    </script>
+    <script>
       $(document).ready(function() {
         // set unique id to videoplayer for the Webflow video element
         var src = $('#setapp-video').children('iframe').attr('src');
@@ -369,6 +393,112 @@
             $('#setapp-video').children('iframe').attr('src', '');
             $('#popup-window').fadeOut();
         });
+        
+        var registerBtns = $('[data-signup]');
+        var registerWindow = $('#signup-window');
+        var closeBtn = $('#register-window-close');
+        registerBtns.each(function(){
+            $(this).click(function(e) {
+            e.preventDefault();
+            registerWindow.css({
+                'visibility' : 'visible',
+              'opacity' : '1'
+            });
+            $('body').css( "overflow", "hidden" );
+          });
+        });
+        closeBtn.click (function(e){
+                e.preventDefault();
+            registerWindow.css({
+                'visibility' : 'hidden',
+              'opacity' : '0'
+            });
+            $('body').css( "overflow", "visible" );
+            $('#signup-form').find('[name="password"]').val('');
+        });
+        
+        var registerForm = $('#signup-form');
+        var submitBtn = $('#signupSubmit');
+        var registerInputs = $('#signup-form input');
+        var action = "https://user-api.setapp.com/v1/me";
+        registerInputs.each(function(){
+          $(this).keyup(function(){
+                    $(this).removeClass('-error');
+                    var errtext = $('#signup-form [data-error="' + $(this).attr("name") + '"]');
+            errtext.css({
+                "maxHeight": "0"
+            });
+          });
+        });
+        
+        submitBtn.click(function(e){
+        
+            e.preventDefault();
+          var $passwordField = registerForm.find('[name="password"]');
+          var password = $passwordField.val();
+          submitBtn.prop( "disabled", true );
+          $passwordField.val(function(i, value) {
+            return value.split('').map(function() {
+                return '•';
+            }).join('');
+          });
+          $passwordField.prop('type', 'text');
+          $.ajax({
+            method: "POST",
+            headers: {
+                'Content-type' : 'application/json',
+                    'Accept' : 'application/json'
+            },
+            url: action,
+            dataType: "json",
+            data: JSON.stringify({
+              email: registerForm.find('[name="email"]').val(),
+              password: password,
+              marketing_subscribed: registerForm.find('[name="marketing_subscribed"]').is(':checked'),
+            })
+          }).done(function(response) {
+            //console.log('done', response);
+            var domain = ".setapp.com";
+            $.cookie('customer_access_token', response.data.token, { path: '/', domain: domain });
+            $.cookie('customer_refresh_token', response.data.refresh_token, { path: '/', domain: domain, expires: 365 });
+            dataLayer.push({
+              'event': 'setapp',
+              'eventCategory': 'Sign Up Page',
+              'eventAction': 'Sign Up Success',
+              'userId': response.data.user_id,
+              'userEmail': registerForm.find('[type="email"]').val()
+            });
+            setTimeout(function() {
+              window.location = 'https://my.setapp.com/successful-registration';
+              $passwordField.val('');
+              registerForm.find('[name="email"]').val('');
+                $passwordField.prop('type', 'password');
+              submitBtn.prop( "disabled", false );
+            }, 1500);
+          }).fail(function(response) {
+            //console.log('fail', response.responseJSON.errors[0]);
+            submitBtn.prop( "disabled", false );
+            $passwordField.val('');
+            $passwordField.prop('type', 'password');
+            response.responseJSON.errors.forEach(function(error){
+                if (error.source && error.source.parameter) {
+                                var input = $('#signup-form [name="' + error.source.parameter + '"]');
+                    if (input) input.addClass('-error');
+                  var errText = $('#signup-form [data-error="' + error.source.parameter + '"]');
+                  errText.find(".submit-form-error-text").text(error.detail);
+                  errText.css({
+                    "maxHeight": "100px"
+                  });
+                }
+            });
+          });
+          
+          
+        });
+        
+        
+      });
+     
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
 </body>
