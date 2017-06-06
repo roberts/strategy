@@ -127,17 +127,6 @@
         </a>
         <h1 class="title" data-ix="fixed-bar">BUSINESS CONSULTING FOR SELECT PARTNERS</h1>
         <p class="text-center">Get dozens of curated Mac apps in a single subscription. No ads, no hidden costs, just apps. We've packed tools for every occasion to get you all set.</p>
-        <div class="features-block">
-            <div class="fe-block">
-                <div class="fe-1-padding fe-text">Digital Marketing</div>
-            </div>
-            <div class="fe-2-icon fe-block">
-                <div class="fe-1-padding fe-text">Business Analytics</div>
-            </div>
-            <div class="fe-3-icon fe-block">
-                <div class="fe-1-padding fe-3-padding fe-text">Risk Management</div>
-            </div>
-        </div>
         <div class="btns">
             <a class="free-download w-button" data-gtm-click="{&quot;eventCategory&quot;: &quot;Setapp Release Landing&quot;, &quot;eventAction&quot;: &quot;Top Button&quot;, &quot;eventLabel&quot;: &quot;Undefined&quot;, &quot;eventNonInteraction&quot;: 0}" data-signup="1" target="_blank" href="#">Contact Us</a>
         </div>
@@ -146,91 +135,50 @@
     </div>
     <div class="features_wrap">
     <div class="features-content w-container">
-    <div class="_1 hide">
-        <div class="img-1" data-ix="mac-animation"></div>
-        <div class="right text-block">
-            <h1 class="features-title">YOUR BOX OF TREASURES</h1>
-            <p class="feature-text feature-text-2">These 70+ apps are all yours, waiting for you to discover and enjoy. Productivity tools, personal finance, coding etc. — explore many categories in one suite. And more apps are being added every day.</p>
-            <div class="extra-features w-clearfix">
-                <div class="extra-block">
-                    <h3 class="h3">HAND-PICKED apps</h3>
-                    <p class="extra-p">Don't get lost in the sea of mediocre tools. Every single app has been triple checked and tested for quality.</p>
-                </div>
-                <div class="extra-block no-extra-padding">
-                    <h3 class="h3">Free Upgrades</h3>
-                    <p class="extra-p">Always get the latest version of products. Never trial versions or stripped-down functionality.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="_1">
-        <div class="discovery-img" data-ix="mac-animation"></div>
-        <div class="right text-block">
-            <h1 class="features-title">Find the right apps. Discover new ones</h1>
-            <p class="feature-text feature-text-2">Finding the right app for the job is easy. The built-in App Discovery tool guides you through various categories and gives quick app suggestions. It’s like opening a box of treasures:&nbsp;each category is full of new apps you'll want <span class="text-span-9">to try.</span></p>
-            <div class="extra-features extra-li-margin w-clearfix">
-                <div class="extra-block extra-block-li">
-                    <ul class="collections-li-wrp w-list-unstyled">
-                        <li class="collection-li">Creativity &amp; Lifestyle</li>
-                        <li class="collection-li">personal finance</li>
-                        <li class="collection-li">education &amp; research</li>
-                        <li class="collection-li">maintenance</li>
-                        <li class="collection-li">Task manager</li>
-                    </ul>
-                </div>
-                <div class="extra-block extra-block-li">
-                    <ul class="collections-li-wrp w-list-unstyled">
-                        <li class="collection-li">Developer tools</li>
-                        <li class="collection-li">mac hacks</li>
-                        <li class="collection-li">productivity</li>
-                        <li class="collection-li">writing &amp; blogging</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
+
+
     <div class="how--it-works">
-    <h1 class="center-h1 features-title">How it works</h1>
-    <p class="center-p feature-text feature-text-2">After you install Setapp client, it will create a lightweight folder in Finder.
-    This is where all your apps are. Click any app to open it
-    and start playing with it right away. Check out the video for more.</p>
-    <div class="btn-arrow">
-    <div class="play-button-wrap" data-ix="btn-scale" id="open-video"></div>
-    </div>
-    <div class="steps">
-    <div class="one-line-item-margin step-item">Digital Marketing</div>
-    <div class="step-arrow step-item"></div>
-    <div class="step-center step-item">Business Analytics</div>
-    <div class="step-arrow step-item"></div>
-    <div class="one-line-item-margin step-item">Risk Management</div>
-    </div>
+        <h1 class="center-h1 features-title">How it works</h1>
+        <p class="center-p feature-text feature-text-2">After you install Setapp client, it will create a lightweight folder in Finder.
+        This is where all your apps are. Click any app to open it
+        and start playing with it right away. Check out the video for more.</p>
+        <div class="btn-arrow">
+            <div class="play-button-wrap" data-ix="btn-scale" id="open-video"></div>
+        </div>
+        <div class="steps">
+            <div class="one-line-item-margin step-item">Digital Marketing</div>
+            <div class="step-arrow step-item"></div>
+            <div class="step-center step-item">Business Analytics</div>
+            <div class="step-arrow step-item"></div>
+            <div class="one-line-item-margin step-item">Risk Management</div>
+        </div>
     </div>
     <div class="_1 _2 w-clearfix">
-    <div class="img-2"></div>
-    <div class="left text-block">
-    <h1 class="features-title">A Monthly Dose of Freedom</h1>
-    <div class="feature-text">
-        <div class="p-inline-block">Why just one app if you can have dozens? With a subscription fee of $9.99 + VAT per month you get full access to apps with a total worth of <span>over $</span></div>
-        <div class="p-inline-block w-dyn-list">
-            <div class="p-inline-block w-dyn-items">
-                <div class="cost w-dyn-item">
-                    <div class="cost">2000</div>
+        <div class="img-2"></div>
+        <div class="left text-block">
+            <h1 class="features-title">A Monthly Dose of Freedom</h1>
+            <div class="feature-text">
+                <div class="p-inline-block">Why just one app if you can have dozens? With a subscription fee of $9.99 + VAT per month you get full access to apps with a total worth of <span>over $</span></div>
+                <div class="p-inline-block w-dyn-list">
+                    <div class="p-inline-block w-dyn-items">
+                        <div class="cost w-dyn-item">
+                            <div class="cost">2000</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="p-inline-block"><span>. Enjoy</span> great products you always wanted to try but didn’t due to the price.</div>
+            </div>
+            <div class="extra-features w-clearfix">
+                <div class="extra-block">
+                    <h3 class="h3">Apps for everything</h3>
+                    <p class="extra-p">Get the software to empower your Mac — professional high-end tools as well as small delights.</p>
+                </div>
+                <div class="extra-block no-extra-padding">
+                    <h3 class="h3">UNlimited access</h3>
+                    <p class="extra-p">You can use the whole catalog right away. Once you subscribe you totally own all these apps.</p>
                 </div>
             </div>
         </div>
-        <div class="p-inline-block"><span>. Enjoy</span> great products you always wanted to try but didn’t due to the price.</div>
-    </div>
-    <div class="extra-features w-clearfix">
-        <div class="extra-block">
-            <h3 class="h3">Apps for everything</h3>
-            <p class="extra-p">Get the software to empower your Mac — professional high-end tools as well as small delights.</p>
-        </div>
-        <div class="extra-block no-extra-padding">
-            <h3 class="h3">UNlimited access</h3>
-            <p class="extra-p">You can use the whole catalog right away. Once you subscribe you totally own all these apps.</p>
-        </div>
-    </div>
-    </div>
     </div>
 
     <div class="feadback">
