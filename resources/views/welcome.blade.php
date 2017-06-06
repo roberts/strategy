@@ -129,15 +129,7 @@
         <p class="text-center">Get dozens of curated Mac apps in a single subscription. No ads, no hidden costs, just apps. We've packed tools for every occasion to get you all set.</p>
         <div class="features-block">
             <div class="fe-block">
-                <div class="text-top">
-                    <div class="dynamic-list-wrapper-2 w-dyn-list">
-                        <div class="dynamic-list-2 w-dyn-items">
-                            <div class="dynamic-item-2 w-dyn-item">
-                                <div class="text-block-7">Digital Marketing</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <div class="fe-1-padding fe-text">Digital Marketing</div>
             </div>
             <div class="fe-2-icon fe-block">
                 <div class="fe-1-padding fe-text">Business Analytics</div>
@@ -206,11 +198,11 @@
     <div class="play-button-wrap" data-ix="btn-scale" id="open-video"></div>
     </div>
     <div class="steps">
-    <div class="one-line-item-margin step-item">Sign up</div>
+    <div class="one-line-item-margin step-item">Digital Marketing</div>
     <div class="step-arrow step-item"></div>
-    <div class="step-center step-item">Install Setapp client</div>
+    <div class="step-center step-item">Business Analytics</div>
     <div class="step-arrow step-item"></div>
-    <div class="one-line-item-margin step-item">Explore apps</div>
+    <div class="one-line-item-margin step-item">Risk Management</div>
     </div>
     </div>
     <div class="_1 _2 w-clearfix">
