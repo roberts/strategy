@@ -101,11 +101,11 @@
     <div class="fixed-bar">
         <div class="fixed-bar-cnt w-container">
             <div class="fix-logo-left w-clearfix">
-                <a class="fix-logo w-inline-block" href="https://setapp.com/"></a>
+                <a class="fix-logo w-inline-block" href="https://triplecrownstrategy.com"></a>
             </div>
-            <div class="fix-center-text">70+ premium Mac apps in one suite</div>
+            <div class="fix-center-text">Business Strategy Consulting</div>
             <div class="fix-right-btn w-clearfix">
-                <a class="f-right-btns w-button" data-gtm-click="{&quot;eventCategory&quot;: &quot;Setapp Release Landing&quot;, &quot;eventAction&quot;: &quot;Fixed Button&quot;, &quot;eventLabel&quot;: &quot;Undefined&quot;, &quot;eventNonInteraction&quot;: 0}" data-signup="1" href="#">Start your free month</a>
+                <a class="f-right-btns w-button" data-gtm-click="{&quot;eventCategory&quot;: &quot;Setapp Release Landing&quot;, &quot;eventAction&quot;: &quot;Fixed Button&quot;, &quot;eventLabel&quot;: &quot;Undefined&quot;, &quot;eventNonInteraction&quot;: 0}" data-signup="1" href="#">Contact Us</a>
             </div>
         </div>
     </div>
@@ -122,10 +122,10 @@
     </div>
     <div class="btm-grad gradient"></div>
     <div class="content w-container">
-        <a class="main-logo-link w-inline-block" href="https://setapp.com/" target="_blank">
+        <a class="main-logo-link w-inline-block" href="https://triplecrownstrategy.com" target="_blank">
             <div class="logo"></div>
         </a>
-        <h1 class="title" data-ix="fixed-bar">SUBSCRIBE FOR THE BEST MAC APPS</h1>
+        <h1 class="title" data-ix="fixed-bar">BUSINESS CONSULTING FOR SELECT PARTNERS</h1>
         <p class="text-center">Get dozens of curated Mac apps in a single subscription. No ads, no hidden costs, just apps. We've packed tools for every occasion to get you all set.</p>
         <div class="features-block">
             <div class="fe-block">
@@ -133,24 +133,23 @@
                     <div class="dynamic-list-wrapper-2 w-dyn-list">
                         <div class="dynamic-list-2 w-dyn-items">
                             <div class="dynamic-item-2 w-dyn-item">
-                                <div class="text-block-7">70</div>
-                                <div class="text-block-6">+ premium apps <span class="text-span-11">(and growing)</span></div>
+                                <div class="text-block-7">Digital Marketing</div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="fe-2-icon fe-block">
-                <div class="fe-1-padding fe-text">No hidden charges or in-app purchases</div>
+                <div class="fe-1-padding fe-text">Business Analytics</div>
             </div>
             <div class="fe-3-icon fe-block">
-                <div class="fe-1-padding fe-3-padding fe-text">Full-featured products</div>
+                <div class="fe-1-padding fe-3-padding fe-text">Risk Management</div>
             </div>
         </div>
         <div class="btns">
-            <a class="free-download w-button" data-gtm-click="{&quot;eventCategory&quot;: &quot;Setapp Release Landing&quot;, &quot;eventAction&quot;: &quot;Top Button&quot;, &quot;eventLabel&quot;: &quot;Undefined&quot;, &quot;eventNonInteraction&quot;: 0}" data-signup="1" target="_blank">Start Your Free Month</a>
+            <a class="free-download w-button" data-gtm-click="{&quot;eventCategory&quot;: &quot;Setapp Release Landing&quot;, &quot;eventAction&quot;: &quot;Top Button&quot;, &quot;eventLabel&quot;: &quot;Undefined&quot;, &quot;eventNonInteraction&quot;: 0}" data-signup="1" target="_blank" href="#">Contact Us</a>
         </div>
-        <div class="free">No credit card needed</div>
+        <div class="free">Free Consultation.</div>
     </div>
     </div>
     <div class="features_wrap">
