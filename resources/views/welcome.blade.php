@@ -126,7 +126,7 @@
             <div class="logo"></div>
         </a>
         <h1 class="title" data-ix="fixed-bar">BUSINESS CONSULTING FOR SELECT PARTNERS</h1>
-        <p class="text-center">Get dozens of curated Mac apps in a single subscription. No ads, no hidden costs, just apps. We've packed tools for every occasion to get you all set.</p>
+        <p class="text-center">Our focus is partnering with only a handful of businesses where our strengths of digital marketing, business analytics, and risk management compliment their goals and become an integral part of their revenue growth.</p>
         <div class="btns">
             <a class="free-download w-button" data-gtm-click="{&quot;eventCategory&quot;: &quot;Setapp Release Landing&quot;, &quot;eventAction&quot;: &quot;Top Button&quot;, &quot;eventLabel&quot;: &quot;Undefined&quot;, &quot;eventNonInteraction&quot;: 0}" data-signup="1" target="_blank" href="#">Contact Us</a>
         </div>
@@ -139,9 +139,7 @@
 
     <div class="how--it-works">
         <h1 class="center-h1 features-title">How we work</h1>
-        <p class="center-p feature-text feature-text-2">After you install Setapp client, it will create a lightweight folder in Finder.
-        This is where all your apps are. Click any app to open it
-        and start playing with it right away. Check out the video for more.</p>
+        <p class="center-p feature-text feature-text-2">We believe every decision should be tracked with data. There are a number of strategies we use to improve digital marketing and then we adjust them over time based on the data from the results. Data is at the core of all the services we offer our partners.</p>
         <div class="btn-arrow">
             <div class="play-button-wrap" data-ix="btn-scale" id="open-video"></div>
         </div>
