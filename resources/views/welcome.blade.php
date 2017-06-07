@@ -138,7 +138,7 @@
 
 
     <div class="how--it-works">
-        <h1 class="center-h1 features-title">How it works</h1>
+        <h1 class="center-h1 features-title">How we work</h1>
         <p class="center-p feature-text feature-text-2">After you install Setapp client, it will create a lightweight folder in Finder.
         This is where all your apps are. Click any app to open it
         and start playing with it right away. Check out the video for more.</p>
