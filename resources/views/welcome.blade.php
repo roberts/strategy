@@ -154,7 +154,7 @@
     <div class="_1 _2 w-clearfix">
         <div class="img-2"></div>
         <div class="left text-block">
-            <h1 class="features-title">A Monthly Dose of Freedom</h1>
+            <h1 class="features-title">Taking Businesses To The Next Level</h1>
             <div class="feature-text">
                 <div class="p-inline-block">Why just one app if you can have dozens? With a subscription fee of $9.99 + VAT per month you get full access to apps with a total worth of <span>over $</span></div>
                 <div class="p-inline-block w-dyn-list">
@@ -168,12 +168,12 @@
             </div>
             <div class="extra-features w-clearfix">
                 <div class="extra-block">
-                    <h3 class="h3">Apps for everything</h3>
-                    <p class="extra-p">Get the software to empower your Mac — professional high-end tools as well as small delights.</p>
+                    <h3 class="h3">Automation</h3>
+                    <p class="extra-p">Get custom software to empower your Business — high-end tools to increase employee efficiency.</p>
                 </div>
                 <div class="extra-block no-extra-padding">
-                    <h3 class="h3">UNlimited access</h3>
-                    <p class="extra-p">You can use the whole catalog right away. Once you subscribe you totally own all these apps.</p>
+                    <h3 class="h3">Data Analysis</h3>
+                    <p class="extra-p">What are your Key Performance Indicators? Identifying and tracking them over time are essential.</p>
                 </div>
             </div>
         </div>
