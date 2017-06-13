@@ -156,15 +156,7 @@
         <div class="left text-block">
             <h1 class="features-title">Taking Businesses To The Next Level</h1>
             <div class="feature-text">
-                <div class="p-inline-block">Why just one app if you can have dozens? With a subscription fee of $9.99 + VAT per month you get full access to apps with a total worth of <span>over $</span></div>
-                <div class="p-inline-block w-dyn-list">
-                    <div class="p-inline-block w-dyn-items">
-                        <div class="cost w-dyn-item">
-                            <div class="cost">2000</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="p-inline-block"><span>. Enjoy</span> great products you always wanted to try but didn’t due to the price.</div>
+                <div class="p-inline-block">We enjoy working with entrepreneurs that are innovative and willing to have a data-driven approach to making business decisions. Our team is able to add the most value to companies with strong leadership where we provide valuable data to measure Key Permance Indicators.</div>
             </div>
             <div class="extra-features w-clearfix">
                 <div class="extra-block">
@@ -180,7 +172,7 @@
     </div>
 
     <div class="feadback">
-        <h1 class="features-title title-center">A word from people&nbsp;<br>who tried it</h1>
+        <h1 class="features-title title-center">Quotes from people&nbsp;<br>we admire</h1>
         <div class="top-feadback">
             <div class="feadback-wrap">
                 <div class="f-line"></div>
