@@ -186,7 +186,6 @@
 
       			<div class="right">
               <a href="https://twitter.com/TripleCrown" alt="Triple Crown Twitter" title="" target="_blank">Twitter</a>
-              <a href="https://plus.google.com/+TripleCrownStrategy" alt="Triple Crown Google Plus" title="" target="_blank">Google+</a>
       			</div>
 
       		</div>
